@@ -5,7 +5,7 @@ hide:
 
 # Miletic's scientific software consulting services
 
-My name is Vedran Miletic and I obtained my PhD in computer science in 2015 from [FER](https://www.fer.unizg.hr/). Today I am the [principal investigator](https://group.miletic.net/en/people/principal-investigator/) of [GASERI](https://group.miletic.net/en/), a research group working in the fields of computational biochemistry and high-performance computing.
+My name is Vedran Miletic and I obtained my PhD in computer science in 2015 from [FER](https://www.fer.unizg.hr/). Afterwards, I completed a postdoc in computational biophysics at [HITS](https://www.h-its.org/) and served as the [principal investigator](https://group.miletic.net/en/people/principal-investigator/) of [GASERI](https://group.miletic.net/en/), a research group working in the fields of computational biochemistry and high-performance computing. Presently, I am with [MPCDF](https://www.mpcdf.mpg.de/), but I kept this page up for historical reasons.
 
 ![Vedran Miletic](https://vedran.miletic.net/images/vm.jpg)
 
@@ -32,7 +32,7 @@ For more details and other projects, see the complete listing of [contributions 
 
     - adding a new feature, for example, developing a new module that implements a particular method,
     - improving existing functionality or fixing a known issue, for example, changing the software to remove limitations for solving a particular problem,
-    - refactoring and modernizing the source code, for example, evolving from C++98 with dependency on legacy libraries and build systems to [C++17](https://en.cppreference.com/w/cpp/17)/[C++20](https://en.cppreference.com/w/cpp/20) with modern [open-source libraries](https://en.cppreference.com/w/cpp/links/libs) and [build](https://cmake.org/) [systems](https://mesonbuild.com/),
+    - refactoring and modernizing the source code, for example, evolving from C++98 with dependency on legacy libraries and build systems to [C++](https://isocpp.org/std/status)[17](https://en.cppreference.com/w/cpp/17)/[20](https://en.cppreference.com/w/cpp/20)/[23](https://en.cppreference.com/w/cpp/23) with modern [open-source libraries](https://en.cppreference.com/w/cpp/links/libs) and [build](https://cmake.org/) [systems](https://mesonbuild.com/),
     - extending the application programming interface (API) for your particular requirements.
 
 - ### Testing and documentation writing
@@ -57,7 +57,7 @@ For more details and other projects, see the complete listing of [contributions 
 
     I offer integration of existing open-source applications and libraries into your workflow, including deployment of server-side software on your on-premise or cloud infrastructure.
 
-    I also offer assistance in choosing specific open-source software for your scientific workflow and workflow design and its automation.
+    I also offer assistance in choosing specific open-source software for your scientific workflow as well as workflow design and its automation using, for example, frameworks like [Snakemake](https://snakemake.github.io/) and [Nextflow](https://nextflow.io/).
 
 </div>
 
