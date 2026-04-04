@@ -5,7 +5,9 @@ hide:
 
 # Miletic's scientific software consulting services
 
-My name is Vedran Miletic and I obtained my PhD in computer science in 2015 from [FER](https://www.fer.unizg.hr/). Afterwards, I completed a postdoc in computational biophysics at [HITS](https://www.h-its.org/) and served as the [principal investigator](https://group.miletic.net/en/people/principal-investigator/) of [GASERI](https://group.miletic.net/en/), a research group working in the fields of computational biochemistry and high-performance computing. Presently, I am with [MPCDF](https://www.mpcdf.mpg.de/), but I kept this page up for historical reasons.
+My name is Vedran Miletic and I obtained my PhD in computer science in 2015 from [FER](https://www.fer.unizg.hr/). Afterwards, I completed a postdoc in computational biophysics at [HITS](https://www.h-its.org/) and served as the [principal investigator](https://group.miletic.net/en/people/principal-investigator/) of [GASERI](https://group.miletic.net/en/), a research group working in the fields of computational biochemistry and high-performance computing.
+
+Presently, I am with [MPCDF](https://www.mpcdf.mpg.de/), but I kept this page up for historical reasons.
 
 ![Vedran Miletic](https://vedran.miletic.net/images/vm.jpg)
 
