@@ -14,6 +14,7 @@ nav:
   - Blog: https://group.miletic.net/en/blog/
 theme:
   name: material
+  variant: classic
   custom_dir: overrides
   features:
     - navigation.tabs
