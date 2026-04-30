@@ -52,7 +52,7 @@ jobs:
           key: ${{ github.sha }}
           path: .cache
       - name: Build site
-        run: zensical build --config-file ./mkdocs.yml
+        run: zensical build --config-file ./mkdocs.yml --strict
         env:
           CI: true
       - name: Upload artifact
