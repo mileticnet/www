@@ -1,45 +1,56 @@
 site_name: Miletic
 site_description: >-
-  Scientific software consulting services offered by Dr. Vedran Miletic.
+  Miletic Family digital home: starting point for all the people and the activities Miletic.
 site_author: Vedran Miletic
 site_url: https://www.miletic.net/
 copyright: >-
-  Copyright 2022 – 2026, <a href="https://vedran.miletic.net/">Dr. Vedran
-  Miletic</a>; all rights reserved. Infrastructure maintained by
-  <a href="https://noc.miletic.net/">Miletic Family network
-  operations center</a>. <a href="#__consent">Change cookie settings</a>.
+  Copyright © MMDCCLXVIII – MMDCCLXXIX <a href="https://calendars.fandom.com/wiki/Ab_urbe_condita">a.u.c.</a> (2015 – 2026 A.D.) <a href="https://vedran.miletic.net/">Dr. Vedran Miletic</a>.
+  All rights reserved.
+  HTML status: <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.miletic.net%2F">valid</a>.
+  SSL server test: <a href="https://www.ssllabs.com/ssltest/analyze.html?d=www.miletic.net">A+ Grade</a>.
+  HSTS status: <a href="https://hstspreload.org/?domain=miletic.net#submission-form">preloaded</a>.
+  Domain: <a href="https://www.verisign.com/">Verisign</a> (<a href="https://rdap.verisign.com/net/v1/domain/miletic.net">registry server</a>) and <a href="https://www.dynadot.com/">Dynadot</a> (<a href="https://rdap.dynadot.com/domain/miletic.net">registrar server</a>), DNS by <a href="https://1984.hosting/">1984 Hosting</a> (<a href="https://whois.domaintools.com/miletic.net">WHOIS</a>), <a href="https://dnsviz.net/d/miletic.net/dnssec/">DNSSEC</a> and <a href="https://uid0.com/ip6dc/miletic.net">IPv6</a> enabled.
+  Authority: <a href="https://ahrefs.com/website-authority-checker/?input=miletic.net">29 (Ahrefs)</a>, <a href="https://moz.com/domain-analysis?site=miletic.net">29 (Moz)</a>.
+  <a href="#__consent">Change cookie settings</a>.
 nav:
-  - Services: index.md
-  - Group: https://group.miletic.net/
-  - Blog: https://group.miletic.net/en/blog/
+  - Miletic: index.md
+  - GASERI: https://gaseri.org/
+  - GASERI Blog: https://gaseri.org/en/blog/
+  - RxTx: https://rxtx.one/
+  - RxTx Research: https://rxtx.one/research/
 theme:
   name: material
   variant: classic
   custom_dir: overrides
   features:
+    - announce.dismiss
     - navigation.tabs
     - navigation.top
+    - toc.follow
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: orange
-      accent: orange
+      primary: teal
+      accent: teal
       toggle:
         icon: material/eye
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: orange
-      accent: orange
+      primary: teal
+      accent: teal
       toggle:
         icon: material/eye-outline
         name: Switch to light mode
   font:
-    text: IBM Plex Sans
-    code: IBM Plex Mono
+    text: PT Sans
+    code: PT Mono
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 extra:
   analytics:
     provider: google
@@ -54,19 +65,16 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/vedranmiletic
-      name: Miletic on Twitter
+      name: Vedran Miletic on Twitter
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/vedranmiletic
-      name: Miletic on LinkedIn
+      name: Vedran Miletic on LinkedIn
     - icon: fontawesome/brands/github
       link: https://github.com/vedranmiletic
-      name: Miletic on GitHub
+      name: Vedran Miletic on GitHub
     - icon: fontawesome/brands/gitlab
       link: https://gitlab.com/vedranmiletic
-      name: Miletic on GitLab
+      name: Vedran Miletic on GitLab
 plugins:
+  - search
   - social
-  - redirects:
-      redirect_maps:
-        'group.md': 'https://group.miletic.net/'
-        'blog.md': 'https://group.miletic.net/en/blog/'
