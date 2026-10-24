@@ -6,12 +6,22 @@ site_url: https://www.miletic.net/
 copyright: >-
   Copyright © MMDCCLXVIII – MMDCCLXXIX <a href="https://calendars.fandom.com/wiki/Ab_urbe_condita">a.u.c.</a> (2015 – 2026 A.D.) <a href="https://vedran.miletic.net/">Dr. Vedran Miletic</a>.
   All rights reserved.
-  HTML status: <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.miletic.net%2F">valid</a>.
-  SSL server test: <a href="https://www.ssllabs.com/ssltest/analyze.html?d=www.miletic.net">A+ Grade</a>.
-  HSTS status: <a href="https://hstspreload.org/?domain=miletic.net#submission-form">preloaded</a>.
-  Domain: <a href="https://www.verisign.com/">Verisign</a> (<a href="https://rdap.verisign.com/net/v1/domain/miletic.net">registry server</a>) and <a href="https://www.dynadot.com/">Dynadot</a> (<a href="https://rdap.dynadot.com/domain/miletic.net">registrar server</a>), DNS by <a href="https://1984.hosting/">1984 Hosting</a> (<a href="https://whois.domaintools.com/miletic.net">WHOIS</a>), <a href="https://dnsviz.net/d/miletic.net/dnssec/">DNSSEC</a> and <a href="https://uid0.com/ip6dc/miletic.net">IPv6</a> enabled.
-  Authority: <a href="https://ahrefs.com/website-authority-checker/?input=miletic.net">29 (Ahrefs)</a>, <a href="https://moz.com/domain-analysis?site=miletic.net">29 (Moz)</a>.
-  <a href="#__consent">Change cookie settings</a>.
+  <a href="#__consent">Cookie settings</a>.<br>
+  Standards: <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.miletic.net%2F">HTML validation</a> ·
+  <a href="https://uid0.com/ip6dc/miletic.net">IPv6 check</a>.<br>
+  Security:
+  <a href="https://www.ssllabs.com/ssltest/analyze.html?d=www.miletic.net">SSL test</a> ·
+  <a href="https://hstspreload.org/?domain=miletic.net#submission-form">HSTS preload status</a> ·
+  <a href="https://dnsviz.net/d/miletic.net/dnssec/">DNSSEC analysis</a>.<br>
+  Domain checks:
+  <a href="https://rdap.verisign.com/net/v1/domain/miletic.net">Registry lookup</a> ·
+  <a href="https://rdap.dynadot.com/domain/miletic.net">Registrar lookup</a> ·
+  <a href="https://whois.domaintools.com/miletic.net">WHOIS lookup</a> ·
+  <a href="https://ahrefs.com/website-authority-checker/?input=miletic.net">Ahrefs website authority</a> ·
+  <a href="https://moz.com/domain-analysis?site=miletic.net">Moz domain authority</a>.<br>
+  Domain providers: <a href="https://www.verisign.com/">Verisign</a> (registry) ·
+  <a href="https://www.dynadot.com/">Dynadot</a> (registrar) ·
+  <a href="https://1984.hosting/">1984 Hosting</a> (DNS).
 nav:
   - Miletic: index.md
   - GASERI: https://gaseri.org/
